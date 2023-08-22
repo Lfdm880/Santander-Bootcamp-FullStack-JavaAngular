@@ -1,6 +1,6 @@
 # My Full Stack Java + Angular Bootcamp Learning Journey
 
-![Bootcamp Banner](https://mspontocom.com.br/site/wp-content/uploads/2023/06/site-santander-universidades-oferece-75-mil-bolsas-de-desenvolvimento-de-software-santander.png))
+![Bootcamp Banner](https://mspontocom.com.br/site/wp-content/uploads/2023/06/site-santander-universidades-oferece-75-mil-bolsas-de-desenvolvimento-de-software-santander.png)
 
 ## Overview
 
