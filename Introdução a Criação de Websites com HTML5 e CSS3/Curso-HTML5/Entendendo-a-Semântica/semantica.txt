@@ -1,0 +1,10 @@
+Semântica
+<section> represanta uma seção genérica de um conteúdo
+	Lista de artigos
+
+<header> cabeçalho
+<article> representa um conteúdo relevante como um artigo de um blog
+<aside> representa um conteúdo relacionado ao conteúdo principal da pagina
+<footer> rodapé
+<h1>-<h6> representam titulos
+
