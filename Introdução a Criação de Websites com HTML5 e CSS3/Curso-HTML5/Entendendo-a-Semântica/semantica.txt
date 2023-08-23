@@ -8,3 +8,13 @@ Semântica
 <footer> rodapé
 <h1>-<h6> representam titulos
 
+<h1> título da página </h1>
+<h2> título da seção</h2>
+<h3> titulo de artgo</h3>
+<p> conteúdo do artigo </p> podemos adicionar imagens, textos, links
+<a> Link </a>
+
+<a href=" link "> Endereço </a>
+<a href="mailto: blabla@blba.com"> email</a>
+<a target="_blan"> Link </a> ele diz pra página abrir o link em uma nova aba
+
