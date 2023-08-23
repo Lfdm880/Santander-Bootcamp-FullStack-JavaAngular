@@ -21,3 +21,15 @@ Semântica
 	<img src=" img/avatar.jpg"> guarda o caminho da imagem
 	<img alt="Foto de lucas"> descreve a foto
 
+Listas
+
+<ul> representa uma lista onde a ordem dos itens nao é importante
+item 1
+item 2
+<ol> ordem dos itens sao importantes 
+1. item 1
+2. item 2
+
+<li> é o item dessa lista
+ 
+
