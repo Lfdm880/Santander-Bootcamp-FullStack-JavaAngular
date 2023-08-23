@@ -1,0 +1,4 @@
+Id vs Class
+
+Id= sao precedidos por um #(usado para identificar um unico elemento)
+class= sao precedidos por um .(usado para identificar mais de um unico elemento)
