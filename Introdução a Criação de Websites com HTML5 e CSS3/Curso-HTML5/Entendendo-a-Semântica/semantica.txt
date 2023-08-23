@@ -17,4 +17,7 @@ Semântica
 <a href=" link "> Endereço </a>
 <a href="mailto: blabla@blba.com"> email</a>
 <a target="_blan"> Link </a> ele diz pra página abrir o link em uma nova aba
+<img> não possui tag de fechamento
+	<img src=" img/avatar.jpg"> guarda o caminho da imagem
+	<img alt="Foto de lucas"> descreve a foto
 
