@@ -13,3 +13,6 @@ border-radius: altera os cantos da borda
 
 é uma boa prática manter um padrão de direção entre as margens do conteúdo. 
 Se eu estilo com Margin-bottom, todos os elements devem ser estilizados assim
+
+list-style-type: estiliza as listas
+list-style-image
