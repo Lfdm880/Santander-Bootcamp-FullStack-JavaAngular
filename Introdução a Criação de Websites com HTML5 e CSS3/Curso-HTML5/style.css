@@ -1,6 +1,7 @@
 
 body{
     background: #f7f7f7;
+    font-family: Verdana;
 }
 
 .foto {
@@ -24,6 +25,15 @@ body{
 
 }
 
+#title{
+    font-size: 40px;
+    text-transform:uppercase;
+}
+
+a{
+    text-decoration: line-through;
+    color:#505050;
+}
 .post_title{
     font-size: 16px;
     font-style: italic;
@@ -42,5 +52,15 @@ body{
 .post_content{
     margin:0;
     margin-bottom: 15px;
+   
 }
 
+.contacts_list{
+    list-style-type: none;
+    padding-left: 15px;
+
+}
+
+.contacts_list li a{
+    text-decoration: none ;
+}
