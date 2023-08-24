@@ -16,3 +16,14 @@ Se eu estilo com Margin-bottom, todos os elements devem ser estilizados assim
 
 list-style-type: estiliza as listas
 list-style-image
+
+Dimensão e alinhamento
+
+width: largura
+height: altura
+
+max-width:largura máxma //utilize para tornar responsivo
+max-height: altura máxima
+
+margin: alinhamento e espaçamento entre elementos/ valor auto
+text align: alinha textos
