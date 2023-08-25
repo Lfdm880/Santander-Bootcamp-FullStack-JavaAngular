@@ -3,4 +3,12 @@ onde cada variável possui um índice
 
 Sintax:
 
-let array = []
+let array = [];
+
+manipulando Arrays
+forEach() -intera um array;
+push() - add intem no final do array
+pop() - remove item no fnal do array
+shift() remove item no inicio do array
+unshift() - add item no inicio do array
+indexOf()- retorna o indece de um valor
