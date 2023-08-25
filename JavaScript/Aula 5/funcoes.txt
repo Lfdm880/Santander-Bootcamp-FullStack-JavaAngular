@@ -1,0 +1,10 @@
+Funções
+São blocos de comandos e instruções para executar determinadas tarefas
+
+ex:
+
+function nomeDaFuncao(){
+    ${instrucao}
+}
+
+nomeDaFunca();
