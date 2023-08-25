@@ -45,3 +45,4 @@ Operadores Lógicos
 || - "ou" considera qualquer valor seja verdade
 ! - "nao" inver o valor de true para false e vice-versa
 
+
