@@ -18,3 +18,10 @@ break
 break
 
 }
+
+Estruturas de repetição
+For;
+For/in;
+For/of;
+While;
+Do/while;
