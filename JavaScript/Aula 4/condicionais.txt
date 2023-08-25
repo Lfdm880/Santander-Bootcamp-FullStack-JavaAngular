@@ -1,0 +1,20 @@
+Estruturas Condicionais
+São instruções para realizar determinadas tarefas
+a partir de uma condição, seja de decisão ou repetição
+
+if - se
+
+else - senão
+else if
+
+switch/case - funcona como uma estrutura condional
+Ex:
+switch (${expressao}){
+    case1:
+        ${instrucao};
+break
+    case2:
+     ${instrucao};
+break
+
+}
