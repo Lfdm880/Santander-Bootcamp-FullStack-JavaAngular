@@ -1,0 +1,6 @@
+Arrays ou vetores sao um tipo de lista, ou matriz de variáveis
+onde cada variável possui um índice
+
+Sintax:
+
+let array = []
